@@ -1,5 +1,5 @@
 {
-  "name": "shortping-express-generator",
+  "name": "@shortping/shortping-express-generator",
   "version": "1.0.0",
   "description": "Generates you an basic express app with jwt authentication",
   "main": "index.js",
