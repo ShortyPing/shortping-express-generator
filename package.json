@@ -1,0 +1,14 @@
+{
+  "name": "shortping-express-generator",
+  "version": "1.0.0",
+  "description": "Generates you an basic express app with jwt authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
