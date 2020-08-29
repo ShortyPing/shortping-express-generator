@@ -8,7 +8,7 @@ const name = process.argv[2];
 if (!name || name.match(/[<>:"\/\\|?*\x00-\x1F]/)) {
     return console.log(`
     Invalid directory name.
-    Usage: shortping-generate-express <folder>  
+    Usage: shortping-express-generator <folder>  
   `);
 }
 
